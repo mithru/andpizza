@@ -1,6 +1,6 @@
 # pattern inspiration from [andpizza](https://andpizza.com/)
 
-andpizza served their pizzas in boxes with an interesting pattern on them. This sketch is inspired by that pattern. 
+Andpizza served their pizzas in boxes with an interesting pattern on them. This sketch is inspired by that pattern. 
 Runs on Processing 3.x
 
 Makes images like this:
